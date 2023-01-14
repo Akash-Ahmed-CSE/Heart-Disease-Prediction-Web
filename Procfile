@@ -1,1 +1,1 @@
-web: gunicorn app:flask_integration/templates/app
+web: gunicorn app:app
