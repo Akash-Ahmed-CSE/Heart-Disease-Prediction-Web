@@ -1,4 +1,4 @@
-Flask==2.2.2
+Flask==0.9
 itsdangerous==2.1.2
 MarkupSafe==2.1.1
 numpy==1.24.1
